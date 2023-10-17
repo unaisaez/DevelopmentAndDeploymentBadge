@@ -8,7 +8,7 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
-    <label>Development and deployment demo1</label>
+    <label>Development and deployment demo 2</label>
     <navType>Standard</navType>
     <tabs>standard-Account</tabs>
     <tabs>DemoDeployment__c</tabs>
